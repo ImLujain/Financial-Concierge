@@ -35,7 +35,7 @@ This application demonstrates a **multi-agent** pattern with a root agent coordi
 
 
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -90,7 +90,7 @@ The sidebar shows real-time status of all three A2A servers:
 - ✅ Green checkmark = Server running and accessible
 - ❌ Red X = Server offline or unreachable
 
-## 💡 Usage Examples
+##  Usage Examples
 
 ### Stock Research
 ```
@@ -120,7 +120,7 @@ The sidebar shows real-time status of all three A2A servers:
 "Show me my watchlist and get the latest news for each stock"
 ```
 
-## 🛠️ Technical Details
+##  Technical Details
 
 ### Agent Specifications
 
