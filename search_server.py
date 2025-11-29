@@ -6,7 +6,7 @@ from google.adk.models.google_llm import Gemini
 from google.adk.tools import google_search
 from google.genai import types
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCUEInF6S0S0XUvmZTPVAWoPlQSDOmCHPs"
+os.environ["GOOGLE_API_KEY"] = "add your key here"
 os.environ["GOOGLE_GENAI_USE_VERTEXAI"] = "FALSE"
 
 retry_config = types.HttpRetryOptions(
